@@ -81,7 +81,7 @@ an error sending your message. Please try again later.</div>';
    <link href="https://fonts.googleapis.com/css?family=Great+Vibes|Lato|Raleway" rel="stylesheet">
     
   <!-- Favicon -->
-   <link rel="icon" href="images/coffee-website-favicon.jpg">
+   <link rel="icon" href="images/keepfootwear-favicon.jpg">
    
 
   </head>
@@ -98,7 +98,7 @@ an error sending your message. Please try again later.</div>';
         <div class="navbar-header">
 
         <a class="navbar-brand" href="https://youragencydomain.com">
-        <img alt="Brand" src="images/coffee-shop-logo.png" class="logo"></a>
+        <img alt="Brand" src="images/keepfootwear-logo.png" class="logo"></a>
 
          
                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=" .navbar-collapse">
@@ -161,7 +161,7 @@ an error sending your message. Please try again later.</div>';
 
         <div class="col-md-6" align="center">
 
-           <img src="images/grow-your-coffee-show-img.jpg" alt="grow-your-coffee-show-img" class="img-responsive">
+           <img src="images/grow-your-footwear-shop-img.jpg" alt="grow-your-coffee-show-img" class="img-responsive">
 
            <h2 class="article-name">How to Grow Your Coffee Shop Online in 5 Easy Steps</h2>
 
@@ -197,7 +197,7 @@ an error sending your message. Please try again later.</div>';
 
               <div class="col-md-4" align="center">
 
-                    <img src="images/website-design-for-coffee-shop.jpg" alt="website-design-for-coffee-shop" class="img-responsive">
+                    <img src="images/website-design-for-footwear-shop.jpg" alt="website-design-for-coffee-shop" class="img-responsive">
 
                         <h2>Website Design</h2>
 
@@ -207,7 +207,7 @@ an error sending your message. Please try again later.</div>';
 
               <div class="col-md-4" align="center">
 
-                    <img src="images/seo-for-coffee-shop.jpg" alt="seo-for-coffee-shop-websites" class="img-responsive">
+                    <img src="images/seo-for-footwear-shop.jpg" alt="seo-for-coffee-shop-websites" class="img-responsive">
 
                         <h2>SEO</h2>
                           
