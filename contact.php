@@ -175,9 +175,15 @@ an error sending your message. Please try again later.</div>';
 
             <p class="info">
 
+<<<<<<< HEAD
             <strong><u>OFFICE TEL</u>:</strong> (+92)318 0010179 <br /><br />
 
             <strong><u>EMAIL</u>:</strong> contact@keepfootwear.com</p> <br /><br /><br /><hr>
+=======
+            <strong><u>OFFICE TEL</u>:</strong> coming soon<br /><br />
+
+            <strong><u>EMAIL</u>:</strong> coming soon</p> <br /><br /><br /><hr>
+>>>>>>> textual changes
 
                 
                   </div><!--end contact-info-->
