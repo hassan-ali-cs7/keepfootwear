@@ -136,7 +136,7 @@ an error sending your message. Please try again later.</div>';
 </nav><!--end nav-->
 
 
-  <h1 align="center">I Help Coffee Shops <br /><span class="cursive">Get More Customers</span></h1>
+  <h1 align="center">I Help Footwear Shops <br /><span class="cursive">Get More Customers</span></h1>
 
       <div class="row">
 
@@ -164,7 +164,7 @@ an error sending your message. Please try again later.</div>';
 
            <img src="images/grow-your-footwear-shop-img.jpg" alt="grow-your-coffee-show-img" class="img-responsive">
 
-           <h2 class="article-name">How to Grow Your Coffee Shop Online in 5 Easy Steps</h2>
+           <h2 class="article-name">How to Grow Your Footwear Shop Online in 5 Easy Steps</h2>
 
         </div><!--end col-md-6-->
 
@@ -183,7 +183,7 @@ an error sending your message. Please try again later.</div>';
 
 <div class="growsales"> 
 
-        <p align="center">Make great coffee while I take care of your online presence!</p>
+        <p align="center">Focus on footwear business while I take care of your online presence!</p>
 
 </div><!--end growsales-->
 
@@ -192,7 +192,7 @@ an error sending your message. Please try again later.</div>';
 
   <div class="container">
 
-    <h3 align="center">I Help Coffee Shops With:</h3>
+    <h3 align="center">I Help Footwear Shops With:</h3>
 
       <div class="row">
 
