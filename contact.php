@@ -106,7 +106,7 @@ an error sending your message. Please try again later.</div>';
 
                   <div class="navbar-header">
 
-                      <a class="navbar-brand" href="https://youragencydomain.com">
+                      <a class="navbar-brand" href="http://keepfootwear.com">
                             
                             <img alt="Brand" src="images/keepfootwear-logo.png" class="logo"></a>
 
@@ -127,9 +127,9 @@ an error sending your message. Please try again later.</div>';
       
                           <ul class="nav navbar-nav">
 
-                              <li align="center"> <a href="https://youragencydomain.com/growth-tips.html">Growth Tips for Coffee Shops</a></li>
+                              <li align="center"> <a href="http://keepfootwear.com/growth-tips.html">Growth Tips for Coffee Shops</a></li>
 
-                              <li align="center"> <a href="https://youragencydomain.com/contact.php">Contact</a></li>
+                              <li align="center"> <a href="http://keepfootwear.com/contact.php">Contact</a></li>
 
                           </ul>
 
@@ -245,9 +245,9 @@ an error sending your message. Please try again later.</div>';
 
 <div id="footer" align="center">
 
-            <a href="https://youragencydomain.com/growth-tips.html">GROWTH TIPS</a>
-            <a href="https://youragencydomain.com/about.html">ABOUT ME</a>
-            <a href="https://youragencydomain.com/contact.php">CONTACT</a>
+            <a href="http://keepfootwear.com/growth-tips.html">GROWTH TIPS</a>
+            <a href="http://keepfootwear.com/about.html">ABOUT ME</a>
+            <a href="http://keepfootwear.com/contact.php">CONTACT</a>
 
 
 
