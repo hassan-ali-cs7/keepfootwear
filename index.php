@@ -68,7 +68,7 @@ an error sending your message. Please try again later.</div>';
         <meta name="description" content="Coffee shop growth: websites, SEO, social media and online marketing."/>
     
     
-    <title>Coffee Shop Growth: Websites, SEO and More</title>
+    <title>Footwear Shop Growth: Websites, SEO and More</title>
 
        <!-- CSS Stylesheets -->
     <!-- Latest compiled and minified CSS -->
@@ -99,7 +99,7 @@ an error sending your message. Please try again later.</div>';
         <div class="navbar-header">
 
         <a class="navbar-brand" href="http://keepfootwear.com">
-        <img alt="Brand" src="images/keepfootwear-logo.png" class="logo"></a>
+        <!-- <img alt="Brand" src="images/keepfootwear-logo.png" class="logo"></a> -->
 
          
                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=" .navbar-collapse">

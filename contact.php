@@ -108,7 +108,7 @@ an error sending your message. Please try again later.</div>';
 
                       <a class="navbar-brand" href="http://keepfootwear.com">
                             
-                            <img alt="Brand" src="images/keepfootwear-logo.png" class="logo"></a>
+                            <!-- <img alt="Brand" src="images/keepfootwear-logo.png" class="logo"></a> -->
 
          
                                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=" .navbar-collapse">
