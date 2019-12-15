@@ -202,7 +202,7 @@ an error sending your message. Please try again later.</div>';
 
                         <h2>Website Design</h2>
 
-                            <p>Text about Website goes here</p>
+                            <!-- <p>Text about Website goes here</p> -->
 
               </div>
 
@@ -212,7 +212,7 @@ an error sending your message. Please try again later.</div>';
 
                         <h2>SEO</h2>
                           
-                          <p>Text about SEO goes here</p>
+                          <!-- <p>Text about SEO goes here</p> -->
 
               </div>
 
@@ -222,7 +222,7 @@ an error sending your message. Please try again later.</div>';
 
                         <h2>Social Media</h2>
 
-                          <p>Text about Social Media goes here</p>
+                          <!-- <p>Text about Social Media goes here</p> -->
 
               </div>
 
