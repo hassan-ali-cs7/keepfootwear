@@ -260,7 +260,7 @@ an error sending your message. Please try again later.</div>';
 </div><!--end of footer-->
 
 
-<p align="center" class="text-muted copyright">&copy; YourWebsite.com</p> 
+<p align="center" class="text-muted copyright">&copy; keepfootwear.com</p> 
 
 
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

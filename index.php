@@ -40,12 +40,12 @@ in your form:</strong>'.$error.'</div>';
 
 
       /* THE EMAIL WHERE YOU WANT TO RECIEVE THE CONTACT MESSAGES */
- if (mail("info@youremailaddress.com", "Message from Your Website Name",
+ if (mail("hassan.ali.cs7@gmail.com", "Message from Your keepfootwear.com",
 
 
  
 "Name: ".$_POST['name']."
-Phone: ".$_POST['phone']." 
+Email: ".$_POST['email']." 
 Message: ".$_POST['message'])) {
 $result='<div class="alert alert-success"> <strong> Thank
 you!</strong> We\'ll get back to you shortly.</div>';
@@ -399,7 +399,7 @@ an error sending your message. Please try again later.</div>';
 
 </div><!--end of footer-->
 
-<p align="center" class="text-muted copyright">&copy; YourWebsite.com</p> 
+<p align="center" class="text-muted copyright">&copy; keepfootwear.com</p> 
 
 
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
