@@ -40,7 +40,7 @@ in your form:</strong>'.$error.'</div>';
 
 
       /* THE EMAIL WHERE YOU WANT TO RECIEVE THE CONTACT MESSAGES */
- if (mail("hassan.ali.cs7@gmail.com", "Message from Your keepfootwear.com",
+ if (mail("contact@keepfootwear.com", "Message from Your keepfootwear.com",
 
 
  
