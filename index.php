@@ -234,7 +234,7 @@ an error sending your message. Please try again later.</div>';
 
 
 
-<div class="testimonials"> 
+<!-- <div class="testimonials"> 
 
     <h4 align="center">Client Testimonials</h4>
 
@@ -266,11 +266,12 @@ an error sending your message. Please try again later.</div>';
 
              <div class="col-md-1"></div>
 
-          </div>  <!--- /.row-->
+          </div>
 
-      </div>  <!--- /.container-->
+      </div>
 
-</div>  <!--- /.testimonials-->
+</div>   -->
+<!--- /.testimonials-->
 
 
 <div class="portfolio">
@@ -283,23 +284,23 @@ an error sending your message. Please try again later.</div>';
 
               <div class="col-md-4 col-sm-4" align="center">
 
-                    <a href="#"><img src="images/portfolio-website.jpg" alt="portfolio-website" class="img-responsive"></a>
+                    <a href="https://comforttoes.com"><img src="images/portfolio-website-1.jpg" alt="portfolio-website" class="img-responsive"></a>
 
 
               </div>
 
               <div class="col-md-4 col-sm-4" align="center">
 
-                    <a href="#"><img src="images/portfolio-website.jpg" alt="portfolio-website" class="img-responsive"></a>
+                    <a href="https://elegantsole.com"><img src="images/portfolio-website-2.jpg" alt="portfolio-website" class="img-responsive"></a>
 
 
               </div>
 
-              <div class="col-md-4 col-sm-4 col-sm-4" align="center">
+              <!-- <div class="col-md-4 col-sm-4 col-sm-4" align="center">
 
                    <a href="#"><img src="images/portfolio-website.jpg" alt="portfolio-website" class="img-responsive"></a>
 
-              </div>
+              </div> -->
 
         </div><!--end row-->
 
