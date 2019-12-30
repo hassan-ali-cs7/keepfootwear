@@ -47,7 +47,7 @@ in your form:</strong>'.$error.'</div>';
 
       /* THE EMAIL WHERE YOU WANT TO RECIEVE THE CONTACT MESSAGES */
 
- if (mail("info@youremailaddress.com", "Message from Your Website Name",
+ if (mail("contact@keepfootwear.com", "Message from Your Website Name",
  
 "Name: ".$_POST['name']."
 Email: ".$_POST['email']."
@@ -175,9 +175,9 @@ an error sending your message. Please try again later.</div>';
 
             <p class="info">
 
-            <strong><u>OFFICE TEL</u>:</strong> +1-202-555-0168<br /><br />
+            <strong><u>OFFICE TEL</u>:</strong> (+92)318 0010179 <br /><br />
 
-            <strong><u>EMAIL</u>:</strong> info@yourwebsite.com</p> <br /><br /><br /><hr>
+            <strong><u>EMAIL</u>:</strong> contact@keepfootwear.com</p> <br /><br /><br /><hr>
 
                 
                   </div><!--end contact-info-->
