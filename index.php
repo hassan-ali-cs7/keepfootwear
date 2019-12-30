@@ -383,7 +383,7 @@ an error sending your message. Please try again later.</div>';
 
 <div class="exclusive-group" align="center">
 
-      <p>Join my Exclusive Facebook Group for Coffee Shop Owners - <a href="#"><span style="color: white">Click here to apply</span></a></p>
+      <p>Join my Exclusive Facebook Group for Footwear Shop Owners - <a href="#"><span style="color: white">Click here to apply (coming soon)</span></a></p>
 
 </div><!--end exclusive-group-->
 
