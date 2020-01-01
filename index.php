@@ -392,7 +392,7 @@ an error sending your message. Please try again later.</div>';
 <div id="footer" align="center">
 
             <a href="http://keepfootwear.com/growth-tips.html">GROWTH TIPS</a>
-            <a href="http://localhost:8000/about.html">ABOUT ME</a>
+            <a href="http://keepfootwear.com/about.html">ABOUT ME</a>
             <a href="http://keepfootwear.com/contact.php">CONTACT</a>
 
 
