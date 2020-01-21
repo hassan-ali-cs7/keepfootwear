@@ -216,7 +216,10 @@
 	padding-right: 10px;
 }
 
-
+#Tel, #txtInputBox1, #txtInputBox2
+{
+    height: 40px !important;;
+}
 
 /* Smartphones (portrait and landscape) ----------- */
 
