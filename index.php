@@ -65,10 +65,10 @@ an error sending your message. Please try again later.</div>';
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="Coffee shop growth: websites, SEO, social media and online marketing."/>
+        <meta name="description" content="Shoe Shop Website Designs: We build creative websites for shoe shops. We also provide SEO, social media and online marketing services to shoe shops"/>
     
     
-    <title>Footwear Shop Growth: Websites, SEO and More</title>
+    <title>Shoe Design Website: Websites, SEO and More</title>
 
        <!-- CSS Stylesheets -->
     <!-- Latest compiled and minified CSS -->
@@ -135,7 +135,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
       
                    <ul class="nav navbar-nav">
 
-                    <li align="center"> <a href="http://keepfootwear.com/growth-tips.html">Growth Tips For Footwear Shops</a></li>
+                    <li align="center"> <a href="http://keepfootwear.com/growth-tips.html">Growth Tips For Shoe Shops</a></li>
 
                     <li align="center"> <a href="http://keepfootwear.com/contact.php">Contact</a></li>
               
@@ -149,7 +149,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 </nav><!--end nav-->
 
 
-  <h1 align="center">I Help Footwear Shops <br /><span class="cursive">Get More Customers</span></h1>
+  <h1 align="center">I Help Shoe Shops <br /><span class="cursive">Get More Customers</span></h1>
 
       <div class="row">
 
@@ -177,7 +177,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
            <img src="images/grow-your-footwear-shop-img.jpg" alt="grow-your-coffee-show-img" class="img-responsive">
 
-           <h2 class="article-name">How to Grow Your Footwear Shop Online in 5 Easy Steps</h2>
+           <h2 class="article-name">How to Grow Your Shoe Shop Online in 5 Easy Steps</h2>
 
         </div><!--end col-md-6-->
 
@@ -196,7 +196,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
 <div class="growsales"> 
 
-        <p align="center">Focus on footwear business while I take care of your online presence!</p>
+        <p align="center">Focus on Shoe business while I take care of your online presence!</p>
 
 </div><!--end growsales-->
 
@@ -205,13 +205,13 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
   <div class="container">
 
-    <h3 align="center">I Help Footwear Shops With:</h3>
+    <h3 align="center">I Help Shoe Shops With:</h3>
 
       <div class="row">
 
               <div class="col-md-4" align="center">
 
-                    <img src="images/website-design-for-footwear-shop.jpg" alt="website-design-for-coffee-shop" class="img-responsive">
+                    <img src="images/shoe-design-website.jpg" alt="shoe-design-website" class="img-responsive">
 
                         <h2>Website Design</h2>
 
@@ -221,7 +221,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
               <div class="col-md-4" align="center">
 
-                    <img src="images/seo-for-footwear-shop.jpg" alt="seo-for-coffee-shop-websites" class="img-responsive">
+                    <img src="images/seo-for-footwear-shop.jpg" alt="seo-for-shoe-shop-websites" class="img-responsive">
 
                         <h2>SEO</h2>
                           
@@ -396,7 +396,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
 <div class="exclusive-group" align="center">
 
-      <p>Join my Exclusive Facebook Group for Footwear Shop Owners - <a href="https://www.facebook.com/groups/2470976386554095" target="_blank"><span style="color: white">Click here to apply</span></a></p>
+      <p>Join my Exclusive Facebook Group for Shoe Shop Owners - <a href="https://www.facebook.com/groups/2470976386554095" target="_blank"><span style="color: white">Click here to apply</span></a></p>
 
 </div><!--end exclusive-group-->
 
