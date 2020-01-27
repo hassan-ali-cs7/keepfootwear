@@ -213,7 +213,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
                   <a href="https://keepfootwear.com/website-design.html"><img src="images/shoe-design-website.jpg" alt="shoe-design-website" class="img-responsive"></a>
 
-                  <h2>Website Design</h2>
+                  <a href="https://keepfootwear.com/website-design.html"><h2>Website Design</h2></a>
 
                   <p>We create professional and spectacular website designs for shoe shops. Have a look at some of our eye-catching designs.</p>
 
