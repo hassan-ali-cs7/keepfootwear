@@ -333,7 +333,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
         <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2"> <br />
 
 
-        <form method="post"><br />
+        <form action="https://keepfootwear.com" method="post"><br />
       
 
             <div align="center" class="form-group center-block">
