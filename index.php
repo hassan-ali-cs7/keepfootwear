@@ -322,7 +322,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 </div><!--end portfolio-->
 
 
-<div class="request-quote"> <br>
+<div class="request-quote" id="request-a-quote"> <br>
 
   <h4>Request a Quote</h4>
 
