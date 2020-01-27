@@ -211,7 +211,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
               <div class="col-md-4" align="center">
 
-                  <a href="https://keepfootwear.com/website-design.html"><img src="images/shoe-design-website.jpg" alt="shoe-design-website" class="img-responsive">
+                  <a href="https://keepfootwear.com/website-design.html"><img src="images/shoe-design-website.jpg" alt="shoe-design-website" class="img-responsive"></a>
 
                   <h2>Website Design</h2>
 
@@ -294,7 +294,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
   <div class="container">
 
       <div class="row">
-
+              <div class="col-md-2"></div>
               <div class="col-md-4 col-sm-4" align="center">
 
                     <a href="https://comforttoes.com"><img src="images/portfolio-website-1.jpg" alt="portfolio-website" class="img-responsive"></a>
