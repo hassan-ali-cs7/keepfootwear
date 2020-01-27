@@ -18,14 +18,14 @@
 	padding-bottom: 80px;
 }
 
-.web-design-intro h4 {
+.web-design-intro h1 {
 	color: #454867;
-	font-size: 35px;
-	letter-spacing: 1px;
+	font-size: 30px;
 	font-family: 'Montserrat', sans-serif;
-	font-weight: bold;
+	font-weight: bold !important;
 	padding-bottom: 30px;
 }
+
 
 .web-design-intro p {
 	color: #2b2b2b;
@@ -39,7 +39,6 @@
 /* Smartphones (portrait and landscape) ----------- */
 
 @media only screen and (max-width: 480px) {
-
 }
 
 
