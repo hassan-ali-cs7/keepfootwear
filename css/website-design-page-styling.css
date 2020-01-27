@@ -13,6 +13,29 @@
 	border: none;
 }
 
+.web-design-intro {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.web-design-intro h4 {
+	color: #454867;
+	font-size: 35px;
+	letter-spacing: 1px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	padding-bottom: 30px;
+}
+
+.web-design-intro p {
+	color: #2b2b2b;
+	font-size: 17px;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 29px;
+	white-space: normal;
+	padding-left: 25px;
+	padding-right: 15px;
+}
 /* Smartphones (portrait and landscape) ----------- */
 
 @media only screen and (max-width: 480px) {
@@ -21,7 +44,9 @@
 
 
 @media only screen and (min-width: 480px) and (max-width: 1024px) {
-
+	.web-design-intro p {
+		padding-top: 30px;
+	}
 }
 
 
