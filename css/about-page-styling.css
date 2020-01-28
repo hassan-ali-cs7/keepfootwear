@@ -20,12 +20,21 @@
 
 .about-me h1 {
 	color: #454867;
-	font-size: 30px;
+	font-size: 40px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: bold !important;
 	padding-bottom: 30px;
 }
 
+
+.about-me h2 {
+	color: #2b2b2b;
+	font-size: 30px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold !important;
+	padding-bottom: 10px;
+	padding-left: 25px;
+}
 
 .about-me p {
 	color: #2b2b2b;
