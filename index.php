@@ -85,7 +85,7 @@ an error sending your message. Please try again later.</div>';
    <link rel="icon" href="images/keepfootwear-favicon.jpg">
    
 <!-- begin Talkwithlead code -->
-<script type="text/javascript" src="https://widgets.talkwithlead.com/Scripts/js/Librarytwl.js"></script>
+<!-- <script type="text/javascript" src="https://widgets.talkwithlead.com/Scripts/js/Librarytwl.js"></script>
 <script type="text/javascript">
 var _Xyz_UserData = 'MjMwMzk=';
 var _Xyz_AgentNew = 'KzkyMzE4MDAxMDE3OQ==';
@@ -96,7 +96,7 @@ s1.async = true;
 s1.src = "https://widgets.talkwithlead.com/Scripts/js/javascript.js".replace(/[+]/g, '/').replace(/[=]/g, '.');
 document.getElementsByTagName('head')[0].appendChild(s1);
 })(window, document);
-</script>
+</script> -->
 <!-- end Talkwithlead code -->
   </head>
 
