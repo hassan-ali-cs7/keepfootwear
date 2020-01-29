@@ -215,7 +215,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
                   <a href="https://keepfootwear.com/website-design.html"><h2>Website Design</h2></a>
 
-                  <p>We create professional and spectacular website designs for shoe shops. Have a look at some of our eye-catching designs.</p>
+                  <p>I create professional and spectacular website designs for shoe shops. Have a look at some of my eye-catching website designs.</p>
 
               </div>
 
@@ -225,7 +225,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
                         <h2>SEO</h2>
                           
-                        <p>Your website should be found in top results when an online user is searching for the type of shoes you offer. We help in improving your website search ranking.</p>
+                        <p>Your website should be found in top results when an online user is searching for the type of shoes you offer. I help in improving your website search ranking.</p>
 
               </div>
 
@@ -235,7 +235,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
                         <h2>Social Media</h2>
 
-                        <p>We take care of your social media presence. We keep your customers engaged and updated about your products and events on social media channels.</p>
+                        <p>I take care of your social media presence. We keep your customers engaged and updated about your products and events on social media channels.</p>
 
               </div>
 
