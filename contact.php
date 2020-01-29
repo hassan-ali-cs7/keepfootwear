@@ -169,7 +169,7 @@ an error sending your message. Please try again later.</div>';
                       <p class="contact-heading">CONTACT</p><br />
 
                           
-          <p class="info">We value our clients. If you have any questions or you would like to place an order with us directly you can either call us or just fill the form and we will get back to you.</p><br /><br />
+          <p class="info">I value my clients. If you have any questions or you would like to place an order with me directly you can either call me or just fill the form and I will get back to you.</p><br /><br />
 
           
 
@@ -190,7 +190,7 @@ an error sending your message. Please try again later.</div>';
 
         <div class="col-md-6 emailForm" align="center">
 
-              <h4 align="center"> If you have any questions, please fill in the form and we will get back to you asap.</h4>
+              <h4 align="center"> If you have any questions, please fill in the form and I will get back to you asap.</h4>
 
                   <form method="post">
 
