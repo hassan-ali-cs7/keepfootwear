@@ -181,6 +181,10 @@
 	padding-bottom: 80px;
 }
 
+.portfolio a:hover {
+	color: #f9b619;
+}
+
 .portfolio h4 {
 	color: #454867;
 	font-size: 35px;
