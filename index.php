@@ -299,6 +299,10 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
                     <a href="https://comforttoes.com"><img src="images/portfolio-website-1.jpg" alt="portfolio-website" class="img-responsive"></a>
 
+                    <a href="https://comforttoes.com"><h2>Comfort Toes</h2></a>
+
+                    <!-- <p>Website Design for a shoe shop that sells formal shoes for men. The design adapts to different device sizes.</p> -->
+
 
               </div>
 
@@ -306,7 +310,9 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
                     <a href="https://elegantsole.com"><img src="images/portfolio-website-2.jpg" alt="portfolio-website" class="img-responsive"></a>
 
-
+                    <a href="https://elegantsole.com"><h2>Elegant Sole</h2></a>
+                
+                    <!-- <p>Website Design for a shoe shop that focusses on ladies elegant shoes. The design adapts to different device sizes.</p> -->
               </div>
 
               <!-- <div class="col-md-4 col-sm-4 col-sm-4" align="center">

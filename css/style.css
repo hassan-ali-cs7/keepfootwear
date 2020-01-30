@@ -190,6 +190,21 @@
 	padding-bottom: 30px;
 }
 
+.portfolio h2 {
+	color: #454867;
+	font-size: 22px;
+	letter-spacing: 1px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold !important;
+}
+.portfolio p {
+	color: #454867;
+	font-size: 18px;
+	letter-spacing: 1px;
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: 50px;
+}
+
 .request-quote {
 	background-color: #FAF8FA;
 }
