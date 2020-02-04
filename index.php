@@ -215,7 +215,17 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
                   <a href="https://keepfootwear.com/website-design.html"><h2>Website Design</h2></a>
 
-                  <p>I create professional and spectacular website designs for shoe shops. Have a look at some of my eye-catching website designs.</p>
+                  <p>We create professional and spectacular website designs for shoe shops. Have a look at some of our eye-catching website designs.</p>
+
+              </div>
+
+              <div class="col-md-4" align="center">
+
+                   <img src="images/google-ads.jpg" alt="google-ads" class="img-responsive">
+
+                    <h2>Google Ads</h2>
+
+                    <p>Google Ads is an online tool which helps in directing more customers from google-search to your website. We help in effective use of google Ads that consumes less budget.</p>
 
               </div>
 
@@ -225,17 +235,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
                         <h2>SEO</h2>
                           
-                        <p>Your website should be found in top results when an online user is searching for the type of shoes you offer. I help in improving your website search ranking.</p>
-
-              </div>
-
-              <div class="col-md-4" align="center">
-
-                   <img src="images/social-media.jpg" alt="social-media" class="img-responsive">
-
-                        <h2>Social Media</h2>
-
-                        <p>I take care of your social media presence. We keep your customers engaged and updated about your products and events on social media channels.</p>
+                        <p>The website should be found in top results when an online user is searching for the type of shoes you offer. We help in improving your website search ranking.</p>
 
               </div>
 
