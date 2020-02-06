@@ -271,7 +271,7 @@ an error sending your message. Please try again later.</div>';
 
     <!-- Include all compiled plugins (below), or include individual files as needed -->
 
-    <script src="js/bootstrap.min.js"></script>
+    <script src="https://cdn.keepfootwear.com/js/bootstrap.min.js"></script>
 
 
 

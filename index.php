@@ -429,10 +429,10 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
     <!-- Include all compiled plugins (below), or include individual files as needed -->
 
-    <!-- <script src="js/bootstrap.min.js"></script> -->
+    <!-- <script src="https://cdn.keepfootwear.com/js/bootstrap.min.js"></script> -->
 
     <!-- Latest compiled and minified JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="https://cdn.keepfootwear.com/js/bootstrap.min.js"></script>
 
 
   </body>
