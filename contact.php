@@ -77,9 +77,9 @@ an error sending your message. Please try again later.</div>';
     <title>Contact Coffee Shop Marketing Agency</title>
 
         <!-- CSS Stylesheets -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="css/navbar.css" />
-    <link rel="stylesheet" type="text/css" href="css/contact-page-styling.css" /> 
+    <link href="https://cdn.keepfootwear.com/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://cdn.keepfootwear.com/css/navbar.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.keepfootwear.com/css/contact-page-styling.css" /> 
    
 
 
