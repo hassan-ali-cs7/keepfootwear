@@ -82,7 +82,7 @@ an error sending your message. Please try again later.</div>';
    <link href="https://fonts.googleapis.com/css?family=Great+Vibes|Lato|Raleway" rel="stylesheet">
     
   <!-- Favicon -->
-   <link rel="icon" href="images/keepfootwear-favicon.jpg">
+   <link rel="icon" href="https://www.keepfootwear.com/images/keepfootwear-favicon.jpg">
    
 <!-- begin Talkwithlead code -->
 <!-- <script type="text/javascript" src="https://widgets.talkwithlead.com/Scripts/js/Librarytwl.js"></script>
@@ -112,7 +112,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
         <div class="navbar-header">
 
         <a class="navbar-brand" href="http://keepfootwear.com">
-        <img alt="Brand" src="images/keepfootwear-logo.png" class="logo"></a>
+        <img alt="Brand" src="https://www.keepfootwear.com/images/keepfootwear-logo.png" class="logo"></a>
 
          
                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=" .navbar-collapse">
@@ -175,7 +175,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
         <div class="col-md-6" align="center">
 
-           <img src="images/grow-your-footwear-shop-img.jpg" alt="grow-your-coffee-show-img" class="img-responsive">
+           <img src="https://www.keepfootwear.com/images/grow-your-footwear-shop-img.jpg" alt="grow-your-coffee-show-img" class="img-responsive">
 
            <h2 class="article-name">How to Grow Your Shoe Shop Online in 5 Easy Steps</h2>
 
@@ -211,7 +211,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
               <div class="col-md-4" align="center">
 
-                  <a href="https://keepfootwear.com/website-design.html"><img src="images/shoe-design-website.jpg" alt="shoe-design-website" class="img-responsive"></a>
+                  <a href="https://keepfootwear.com/website-design.html"><img src="https://www.keepfootwear.com/images/shoe-design-website.jpg" alt="shoe-design-website" class="img-responsive"></a>
 
                   <a href="https://keepfootwear.com/website-design.html"><h2>Website Design</h2></a>
 
@@ -221,7 +221,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
               <div class="col-md-4" align="center">
 
-                   <img src="images/google-ads.jpg" alt="google-ads" class="img-responsive">
+                   <img src="https://www.keepfootwear.com/images/google-ads.jpg" alt="google-ads" class="img-responsive">
 
                     <h2>Google Ads</h2>
 
@@ -231,7 +231,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
               <div class="col-md-4" align="center">
 
-                    <img src="images/seo-for-footwear-shop.jpg" alt="seo-for-shoe-shop-websites" class="img-responsive">
+                    <img src="https://www.keepfootwear.com/images/seo-for-footwear-shop.jpg" alt="seo-for-shoe-shop-websites" class="img-responsive">
 
                         <h2>SEO</h2>
                           
@@ -259,7 +259,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
              <div class="col-md-5">
 
-            <p align="center"><img src="images/client1.png" alt="happy-client" class="img-responsive"></p>
+            <p align="center"><img src="https://www.keepfootwear.com/images/client1.png" alt="happy-client" class="img-responsive"></p>
 
              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eleifend quis augue nec efficitur. Fusce elit mauris, porttitor euismod viverra non, condimentum ut velit. Nunc in purus nibh. In non consectetur sapien.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eleifend quis augue nec efficitur. Fusce elit mauris, porttitor euismod viverra non, condimentum ut velit. Nunc in purus nibh. In non consectetur sapien. </p>
 
@@ -269,7 +269,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
              <div class="col-md-5 client2">
 
-            <p align="center"><img src="images/client2.png" alt="happy-client" class="img-responsive"></p>
+            <p align="center"><img src="https://www.keepfootwear.com/images/client2.png" alt="happy-client" class="img-responsive"></p>
 
              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eleifend quis augue nec efficitur. Fusce elit mauris, porttitor euismod viverra non, condimentum ut velit. Nunc in purus nibh. In non consectetur sapien.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eleifend quis augue nec efficitur. Fusce elit mauris, porttitor euismod viverra non, condimentum ut velit. Nunc in purus nibh. In non consectetur sapien. </p>
 
@@ -297,7 +297,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
               <div class="col-md-2"></div>
               <div class="col-md-4 col-sm-4" align="center">
 
-                    <a href="https://comforttoes.com"><img src="images/portfolio-website-1.jpg" alt="portfolio-website" class="img-responsive"></a>
+                    <a href="https://comforttoes.com"><img src="https://www.keepfootwear.com/images/portfolio-website-1.jpg" alt="portfolio-website" class="img-responsive"></a>
 
                     <a href="https://comforttoes.com"><h2>Comfort Toes</h2></a>
 
@@ -308,7 +308,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
               <div class="col-md-4 col-sm-4" align="center">
 
-                    <a href="https://elegantsole.com"><img src="images/portfolio-website-2.jpg" alt="portfolio-website" class="img-responsive"></a>
+                    <a href="https://elegantsole.com"><img src="https://www.keepfootwear.com/images/portfolio-website-2.jpg" alt="portfolio-website" class="img-responsive"></a>
 
                     <a href="https://elegantsole.com"><h2>Elegant Sole</h2></a>
                 
@@ -317,7 +317,7 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
               <!-- <div class="col-md-4 col-sm-4 col-sm-4" align="center">
 
-                   <a href="#"><img src="images/portfolio-website.jpg" alt="portfolio-website" class="img-responsive"></a>
+                   <a href="#"><img src="https://www.keepfootwear.com/images/portfolio-website.jpg" alt="portfolio-website" class="img-responsive"></a>
 
               </div> -->
 

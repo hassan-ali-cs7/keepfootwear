@@ -88,7 +88,7 @@ an error sending your message. Please try again later.</div>';
    <link href="https://fonts.googleapis.com/css?family=Great+Vibes|Lato|Raleway" rel="stylesheet">
     
     <!-- Favicon -->
-   <link rel="icon" href="images/keepfootwear-favicon.jpg">
+   <link rel="icon" href="https://www.keepfootwear.com/images/keepfootwear-favicon.jpg">
 
 
   </head>
@@ -108,7 +108,7 @@ an error sending your message. Please try again later.</div>';
 
                       <a class="navbar-brand" href="http://keepfootwear.com">
                             
-                            <img alt="Brand" src="images/keepfootwear-logo.png" class="logo"></a>
+                            <img alt="Brand" src="https://www.keepfootwear.com/images/keepfootwear-logo.png" class="logo"></a>
 
          
                                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=" .navbar-collapse">
