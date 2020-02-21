@@ -211,21 +211,11 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
               <div class="col-md-4" align="center">
 
-                  <a href="https://keepfootwear.com/website-design.html"><img src="https://www.keepfootwear.com/images/shoe-design-website.jpg" alt="shoe-design-website" class="img-responsive"></a>
+                  <img src="https://www.keepfootwear.com/images/shoe-design-website.jpg" alt="shoe-design-website" class="img-responsive">
 
-                  <a href="https://keepfootwear.com/website-design.html"><h2>Website Design</h2></a>
+                  <h2>Website Design</h2>
 
-                  <p>We create professional and spectacular website designs for shoe shops. Have a look at some of our eye-catching website designs.</p>
-
-              </div>
-
-              <div class="col-md-4" align="center">
-
-                   <img src="https://www.keepfootwear.com/images/google-ads.jpg" alt="google-ads" class="img-responsive">
-
-                    <h2>Google Ads</h2>
-
-                    <p>Google Ads is an online tool which helps in directing more customers from google-search to your website. We help in effective use of google Ads that consumes less budget.</p>
+                  <p>We create professional and spectacular website designs for shoe shops. Have a look at some of our eye-catching website designs by scolling down.</p>
 
               </div>
 
@@ -235,10 +225,19 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
                         <h2>SEO</h2>
                           
-                        <p>The website should be found in top results when an online user is searching for the type of shoes you offer. We help in improving your website search ranking.</p>
+                        <p>Your website should be found in top results when a user is searching on google for the type of shoes you offer. We help in improving your website search ranking on google.</p>
 
               </div>
 
+              <div class="col-md-4" align="center">
+
+                   <img src="images/social-media.jpg" alt="social-media" class="img-responsive">
+
+                    <h2>Social Media</h2>
+
+                    <p>For new customers, Social-Media platforms increase a sense of reliability about your products by viewing the recommendations or comments from your existing customers. We help in building this sense of reliability among your customers.</p>
+
+              </div>
         </div><!--- /.row-->
 
     </div><!-- /.container-->
