@@ -73,7 +73,7 @@ an error sending your message. Please try again later.</div>';
        <!-- CSS Stylesheets -->
     <!-- Latest compiled and minified CSS -->
     <link href="https://cdn.keepfootwear.com/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="https://cdn.keepfootwear.com/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
     <link rel="stylesheet" type="text/css" href="https://cdn.keepfootwear.com/css/navbar.css" />
     <link rel="stylesheet" type="text/css" href="https://cdn.keepfootwear.com/css/get-a-quote-form.css" />
 
