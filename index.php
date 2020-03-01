@@ -73,10 +73,10 @@ an error sending your message. Please try again later.</div>';
 
   <!-- CSS Stylesheets -->
   <!-- Latest compiled and minified CSS -->
-  <link href="https://cdn.keepfootwear.com/css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="css/style.css" />
-  <link rel="stylesheet" type="text/css" href="https://cdn.keepfootwear.com/css/navbar.css" />
-  <link rel="stylesheet" type="text/css" href="https://cdn.keepfootwear.com/css/get-a-quote-form.css" />
+  <link rel="stylesheet" type="text/css" href="css/navbar.css" />
+  <link rel="stylesheet" type="text/css" href="css/get-a-quote-form.css" />
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
@@ -457,10 +457,10 @@ document.getElementsByTagName('head')[0].appendChild(s1);
 
   <!-- Include all compiled plugins (below), or include individual files as needed -->
 
-  <!-- <script src="https://cdn.keepfootwear.com/js/bootstrap.min.js"></script> -->
+  <!-- <script src="js/bootstrap.min.js"></script> -->
 
   <!-- Latest compiled and minified JavaScript -->
-  <script src="https://cdn.keepfootwear.com/js/bootstrap.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
 
 
 </body>
